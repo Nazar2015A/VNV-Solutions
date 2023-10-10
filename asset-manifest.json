@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/VNV-Solutions/static/css/main.12f7493f.css",
+    "main.js": "/VNV-Solutions/static/js/main.d1b7115c.js",
+    "static/media/video.mp4": "/VNV-Solutions/static/media/video.b6f2a24cf97fa5467fb0.mp4",
+    "static/media/revman2.jpg": "/VNV-Solutions/static/media/revman2.f190534082b394f6e3d2.jpg",
+    "static/media/revman.jpg": "/VNV-Solutions/static/media/revman.566d7430aaef97b8bb7e.jpg",
+    "static/media/revwoman2.jpg": "/VNV-Solutions/static/media/revwoman2.6f98fe8516265c6e6fe1.jpg",
+    "static/media/revwoman1.jpg": "/VNV-Solutions/static/media/revwoman1.b047c6d6c2bcdbbb9b57.jpg",
+    "static/media/web-development.jpg": "/VNV-Solutions/static/media/web-development.349f6355de9ac77354fb.jpg",
+    "static/media/mobile.jpg": "/VNV-Solutions/static/media/mobile.e2e20224c2762111b912.jpg",
+    "static/media/support.jpg": "/VNV-Solutions/static/media/support.7ac7dfb5b9280260e437.jpg",
+    "static/media/design.jpg": "/VNV-Solutions/static/media/design.c1b9e2c6b1c0b09aac2b.jpg",
+    "static/media/analysing.jpg": "/VNV-Solutions/static/media/analysing.be737e516bf9c51f441f.jpg",
+    "static/media/testing.jpg": "/VNV-Solutions/static/media/testing.5612b721098f8ff6f2fb.jpg",
+    "static/media/marketing.jpg": "/VNV-Solutions/static/media/marketing.8ec7111cf1fec807c0f8.jpg",
+    "static/media/bot.jpg": "/VNV-Solutions/static/media/bot.512ef0162ce113f510b9.jpg",
+    "static/media/software.jpg": "/VNV-Solutions/static/media/software.13a7db1cc5b882a1840a.jpg",
+    "static/media/supporting.jpg": "/VNV-Solutions/static/media/supporting.13b798d6ec4d62e3e4d2.jpg",
+    "static/media/planing.jpg": "/VNV-Solutions/static/media/planing.02b300a45769fa870840.jpg",
+    "static/media/vnv logo-05.png": "/VNV-Solutions/static/media/vnv logo-05.6328696c9eac305aeaef.png",
+    "static/media/slick.svg": "/VNV-Solutions/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/VNV-Solutions/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/VNV-Solutions/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/VNV-Solutions/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/VNV-Solutions/index.html",
+    "main.12f7493f.css.map": "/VNV-Solutions/static/css/main.12f7493f.css.map",
+    "main.d1b7115c.js.map": "/VNV-Solutions/static/js/main.d1b7115c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f7493f.css",
+    "static/js/main.d1b7115c.js"
+  ]
+}
