@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Istok+Web&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button {
+    border: none;
+    outline: none;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+body, html {
+    overflow-x: hidden;
+}
+body {
+    font-family: "Istok Web", sans-serif;
+    
+}
+.container {
+    width: 1350px;
+    margin: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "RocknRoll One", sans-serif;
+}
+p {
+    color: #777;
+}
+.green {
+    color: #01be96;
+    font-size: 26px;
+  }
