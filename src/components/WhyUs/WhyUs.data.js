@@ -1,6 +1,4 @@
 import { MdDesignServices } from "react-icons/md";
-import { FiCodesandbox } from "react-icons/fi";
-import { CgWebsite } from "react-icons/cg";
 import { GiTalk } from 'react-icons/gi'
 import { FaPeopleArrows } from 'react-icons/fa'
 import { GiNetworkBars } from 'react-icons/gi'
