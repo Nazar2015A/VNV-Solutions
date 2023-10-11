@@ -128,15 +128,15 @@ const Services = () => {
                     <h5>{item.desc}</h5>
                     <ul className="services-wrapper-desc-list">
                       <li className="services-list">
-                        <img className="services-icons" src={item.smImg1} alt="" />
+                        <img className="services-icons" src={item.smImg1} alt="ServicesIcons" />
                         <p>{item.critery1}</p>
                       </li>
                       <li className="services-list">
-                        <img className="services-icons" src={item.smImg2} alt="" />
+                        <img className="services-icons" src={item.smImg2} alt="ServicesIcons" />
                         <p>{item.critery2}</p>
                       </li>
                       <li className="services-list">
-                        <img className="services-icons" src={item.smImg3} alt="" />
+                        <img className="services-icons" src={item.smImg3} alt="ServicesIcons" />
                         <p>{item.critery3}</p>
                       </li>
                     </ul>
@@ -144,7 +144,7 @@ const Services = () => {
                   </div>
                 </div>
               </Slide>
-                <img className="services-image" src={item.mainImg} alt="Service image" />
+                <img className="services-image" src={item.mainImg} alt="ServicesImage" />
             </div>
           ))}
         </div>

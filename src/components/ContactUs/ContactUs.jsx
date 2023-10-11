@@ -16,7 +16,7 @@ const ContactUs = () => {
           <div className="contact-us-content-top">
 
             <div className="contact-us-content-item">
-              <h2>Telegram:</h2>
+              <h2>Telegram</h2>
               <a target="_blank" href="https://t.me/vnv_solutions">
                 <img
                   className="contact-us-content-img"
@@ -26,12 +26,12 @@ const ContactUs = () => {
               </a>
             </div>
             <div className="contact-us-content-item">
-              <h2>Email:</h2>
+              <h2>Email</h2>
               <a target="_blank" href="mailto:team@vnv.solutions">
                 <img
                   className="contact-us-content-img"
                   src={email}
-                  alt="Instagram"
+                  alt="Email"
                 />
               </a>
             </div>
@@ -41,17 +41,17 @@ const ContactUs = () => {
                 <img
                   className="contact-us-content-img"
                   src={whatsapp}
-                  alt="Linkedin"
+                  alt="WhatsApp"
                 />
               </a>
             </div>
             <div className="contact-us-content-item">
-              <h2>Viber:</h2>
+              <h2>Viber</h2>
               <a target="_blank" href="https://www.viber.com/ua/">
                 <img
                   className="contact-us-content-img"
                   src={viber}
-                  alt="Telegram"
+                  alt="Viber"
                 />
               </a>
             </div>
